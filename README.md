@@ -6,3 +6,7 @@ probe frequencies and the frequencies estimated by the gradient fields.
 Gradient fields up to 4th degree decomposition can be used.
 
 See the ProgrammersManual.pdf for more information
+
+Please cite:
+Chang P, Eschelbach M, Syha R, Scheffler K and Henning A. "Impact of Gradient Nonlinearity on the Accuracy of NMR Field Camera Readouts"
+Proc. of ISMRM 2015, Toronto, Canada.
